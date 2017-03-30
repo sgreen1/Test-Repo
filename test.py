@@ -7,5 +7,3 @@ def reformat_mac(mac):
     mac5 = mac.split()[0][6]
     newmac = mac0 + mac1 + ":" + mac2 + mac3 + ":" + mac4 + mac5
     return newmac.upper()
-
-asdfasdf
